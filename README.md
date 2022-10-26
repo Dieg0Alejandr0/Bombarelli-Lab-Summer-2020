@@ -1,7 +1,6 @@
 # Description
 
-The following repository consists of the implemention of the Nudged Elastic Band method for finding minimum-energy paths, both done traditionally and through neural networks 
-(Neural ODEs). Special thanks to my mentor Wujie Wang and supervisor Rafael Bombarelli for all the indispensable guidance during my time as a UROP.
+The following repository consists of the implemention of the Nudged Elastic Band method for finding minimum-energy paths, both done traditionally and through differentiable ODE solvers. Special thanks to my mentor Wujie Wang and supervisor Rafael Bombarelli for all the indispensable guidance during my time as a UROP.
 
 ## References
 
